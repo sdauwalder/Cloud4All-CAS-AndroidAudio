@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Cloud4All Sensors</string>
+
+    <string name="audio">Enable Audio</string>
+    <string name="luminosity">Enable Luminosity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="pref_category_general">General</string>
+    <string name="pref_category_audio">Audio Sensor</string>
+    <string name="pref_category_light">Light Sensor</string>
+
+    <string name="pref_title_cas_url_sound">Url CAS Audio</string>
+    <string name="pref_default_cas_url_sound">http://192.168.0.106:8888/sensors/5551dd44571d09f8080150f7/data</string>
+
+    <string name="pref_title_cas_url_light">Url CAS Light</string>
+    <string name="pref_default_cas_url_light">http://192.168.0.106:8888/sensors/5551dd44571d09f8080150f7/data</string>
+
+    <string name="pref_title_sound_max">Sound maximum</string>
+    <string name="pref_default_sound_max">20000</string>
+
+    <string name="pref_title_send_interval">Send to CAS interval (seconds)</string>
+    <string name="pref_default_send_interval">10</string>
+
+    <string name="pref_title_light_max">Light maximum</string>
+    <string name="pref_default_light_max">1000</string>
+</resources>
